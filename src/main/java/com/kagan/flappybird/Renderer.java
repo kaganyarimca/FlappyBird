@@ -13,8 +13,6 @@ public class Renderer  extends JPanel {
         FlappyBird.flappyBird.repaint(g);
 
 
-
     }
-
 
 }
